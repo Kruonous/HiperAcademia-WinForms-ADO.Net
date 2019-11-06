@@ -19,7 +19,7 @@ namespace CadastroClienteAcademiaCsharp.Data
                 cliente.Id = Guid.Parse(item["Id"].ToString());
                 cliente.Nome = item["Nome"].ToString();
                 cliente.Telefone = item["Telefone"].ToString();
-                cliente.DataDeCadastro = DateTime.Parse(item["DataCadastro"].ToString());
+                cliente.DataCadastro = DateTime.Parse(item["DataCadastro"].ToString());
                 cliente.CidadeId = Guid.Parse(item["CidadeId"].ToString());
 
                 cliente.Cidade = new Cidade();
