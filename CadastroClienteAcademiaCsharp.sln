@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroClienteAcademiaCsharp", "CadastroClienteAcademiaCsharp\CadastroClienteAcademiaCsharp.csproj", "{00EF7E35-5C6D-438D-856D-BC930B8AEECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkTest1", "EntityFrameworkTest1\EntityFrameworkTest1.csproj", "{307FF66C-88B5-4440-9D2A-80CE934D9E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDatabaseFirst", "EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst.csproj", "{E3D1316F-5575-4C94-96CF-022FB5123B13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{00EF7E35-5C6D-438D-856D-BC930B8AEECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00EF7E35-5C6D-438D-856D-BC930B8AEECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00EF7E35-5C6D-438D-856D-BC930B8AEECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307FF66C-88B5-4440-9D2A-80CE934D9E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307FF66C-88B5-4440-9D2A-80CE934D9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307FF66C-88B5-4440-9D2A-80CE934D9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307FF66C-88B5-4440-9D2A-80CE934D9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D1316F-5575-4C94-96CF-022FB5123B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D1316F-5575-4C94-96CF-022FB5123B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D1316F-5575-4C94-96CF-022FB5123B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D1316F-5575-4C94-96CF-022FB5123B13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
